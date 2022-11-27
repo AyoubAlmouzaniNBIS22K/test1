@@ -4,4 +4,9 @@ t;ltgklkegkpoektopk
 t
 
 lkkgdrtkgkty
+<<<<<<< HEAD
 ayoubmouzar
+=======
+ayouuuuuuuuuuuuuuuub
+
+>>>>>>> ae6cf222696e954aafda32a60636d17f3ff4aee4
